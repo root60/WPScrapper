@@ -84,13 +84,6 @@ python WordpressGrabberD.py
 
 ---
 
-## 💡 Example
-<p align="center">
-  <img src="https://i.imgur.com/67ccyO3.png" alt="Example Results" width="70%" style="border:1px solid #4A5568;border-radius:8px;">
-</p>
-
----
-
 ## 📌 Notes
 - The scanner uses **DuckDuckGo** to avoid Google’s strict scraping limits.
 - Subdomain enumeration is **passive** (no brute-forcing) for safety.
