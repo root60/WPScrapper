@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/BQ1yEN4.png" alt="Mass WordPress Scrapper" width="100%" style="border-radius:10px;">
-</p>
+![GUI Screenshot](Screenshot.PNG)
 
 <h1 align="center" style="color:#38A169;">Mass WordPress Scrapper</h1>
 <p align="center">
