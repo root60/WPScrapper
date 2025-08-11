@@ -40,9 +40,7 @@ It includes a **modern PyQt5 GUI** with dark theme support, real-time logs, and 
 
 ## 📷 Screenshot
 
-<p align="center">
-  <img src="[https://i.imgur.com/2PZjAgq.png](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZlMXN6bGRldDd4Ym1yNGZ2cnV5NDdidDJnbXk1ZGFxYXU1ZHp3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UrpkrdM64JCMnff6qy/giphy.gif)" alt="UI Screenshot" width="80%" style="border:1px solid #4A5568;border-radius:8px;">
-</p>
+![GUI Screenshot](screenshot.PNG)
 
 ---
 
