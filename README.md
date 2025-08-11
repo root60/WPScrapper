@@ -46,11 +46,11 @@ It includes a **modern PyQt5 GUI** with dark theme support, real-time logs, and 
 
 ```bash
 # Clone the repository
-git clone [https://github.com/root60/WPScrapper.git]
+git clone https://github.com/root60/WPScrapper.git
 cd WPScrapper
 
 # Install dependencies
-pip install ddgs aiodns aiohttp PyQt5 colorama google-generativeai
+pip -3 install ddgs aiodns aiohttp PyQt5 colorama google-generativeai
 ```
 
 ---
