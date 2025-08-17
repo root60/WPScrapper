@@ -44,7 +44,7 @@ It automates reconnaissance by combining high-speed dorking, AI-powered query ge
 
 ---
 
-## ⚠️ Black Hat Motivations & Financial Benefits (For Educational Purposes)
+## ⚠️ Black Hat Motivations & Benefits (For Educational Purposes)
 
 **DISCLAIMER**: The following information describes how malicious actors (black hat hackers) could misuse the data gathered by this tool. These activities are illegal, unethical, and can lead to severe legal consequences. This section is included strictly for educational purposes to help defenders and security professionals understand the threat landscape.
 
