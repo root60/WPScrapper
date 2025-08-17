@@ -104,7 +104,7 @@ This is the primary way to use the tool, giving you access to all features.
     python3 WPScrapper.py
     
     # On Windows
-    python WPScrapper.py
+    py -3 WPScrapper.py
     ```
 2.  **Generate Dorks:**
     - Navigate to the **"Dork Generation"** tab.
