@@ -104,7 +104,7 @@ This is the primary way to use the tool, giving you access to all features.
     python3 WPScrapper.py
     
     # On Windows
-    py -3 WPScrapper.py
+    python WPScrapper.py
     ```
 2.  **Generate Dorks:**
     - Navigate to the **"Dork Generation"** tab.
@@ -122,39 +122,32 @@ The script automatically falls back to a command-line interface if `PyQt5` is no
 
 ---
 
-## ✅ Benefits
+## ✅ Professional & Ethical Applications
 
-#### For All Users
-- **Automation**: Automates hours of manual reconnaissance work into a single click.
-- **Efficiency**: The asynchronous engine can perform hundreds of network operations concurrently, delivering results fast.
-- **Deep Intelligence**: Goes beyond just finding sites to providing actionable intelligence about their configuration.
+This tool is designed for legitimate cybersecurity work. Using the scraped data responsibly can lead to professional growth and rewards.
 
-#### Benefits for Windows Users
-- **User-Friendly**: Provides a simple and intuitive graphical interface, eliminating the need for complex command-line arguments.
-- **All-in-One**: Manage keywords, dorks, settings, and results from a single window.
-- **Easy Access**: Perfect for researchers who prefer a straightforward, visual workflow.
+#### Cybersecurity Services (Penetration Testing)
+As a penetration tester or security consultant, you can use this tool during the initial reconnaissance phase of an engagement. The information gathered—such as software versions, plugins, and exposed subdomains—is critical for identifying potential attack vectors on behalf of a client **who has given you explicit, written permission** to assess their systems.
 
-#### Benefits for Linux Users
-- **Server & SSH Ready**: The CLI fallback allows the tool to run on headless servers or over SSH connections.
-- **Scripting & Integration**: Can be integrated into larger security testing pipelines and automation scripts.
-- **Pentesting Power**: A perfect addition to pentesting distributions like Kali Linux, complementing other reconnaissance tools.
+#### Authorized Bug Bounty Programs
+Many companies offer bug bounty programs (e.g., on platforms like HackerOne or Bugcrowd) where they reward researchers for finding and reporting vulnerabilities. You can use this tool to find assets that are in-scope for such a program and analyze them for bugs. This is a legitimate way to earn money and build a professional reputation.
+
+#### Security Research
+The data can be used to analyze the prevalence of certain WordPress versions, plugins, or themes across the web. This can help in identifying widespread vulnerabilities (e.g., a zero-day in a popular plugin) and responsibly disclosing them to vendors or the public, contributing to a safer internet for everyone.
+
+#### Market & Competitive Analysis (Use with Extreme Caution)
+While the tool can identify sites in a specific niche (e.g., "real estate sites using WooCommerce"), this application borders on unsolicited data scraping. **You must respect `robots.txt` files, website Terms of Service, and data privacy laws like GDPR and CCPA.** Misuse can have serious legal consequences. This is not the primary intended use of the tool.
 
 ---
 
 ## ⚙ Configuration
-- On first run, a `config.json` file is generated.
+- On first run, a `config.json` is generated.
 - Scan settings, concurrency, and API keys can be modified from the **Settings** tab in the GUI or by editing the file directly.
 - All results are saved in the `results/` directory for persistence and analysis.
 
 ---
 
-## 📌 Notes
-- The scanner primarily uses **DuckDuckGo** to avoid the strict rate-limiting and CAPTCHAs imposed by Google.
-- Subdomain enumeration is **passive** and relies on public data to remain stealthy and responsible.
-- This tool is designed for **Windows** and **Linux**. For GUI use on Linux, an X11 server is required (standard on most desktop environments).
+## ⚠️ Disclaimer & Responsible Use
+This project is released under the **MIT License**.
 
----
-
-## 📄 License
-This project is released under the **MIT License**.  
-It is intended for educational and ethical security research purposes only. The developer is not responsible for any misuse of this tool.
+The developer is not responsible for any misuse of this tool. It is intended for **educational and ethical security research purposes only**. Unauthorized scanning of websites is illegal. Always ensure you have explicit, written permission from the owner of any system before performing any security testing.
